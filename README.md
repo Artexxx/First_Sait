@@ -1,2 +1,2 @@
-# First_Sait
+# First bad site
 The site is written on Flask
